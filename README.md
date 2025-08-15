@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi there, I'm Kulsoom 👋
 
-<!--
-**kulsoom66/kulsoom66** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+- 🌞 Solar forecasting enthusiast
+- 🧠 Machine Learning learner
+- 📊 Loves time series & energy data
 
-Here are some ideas to get you started:
+## 🔧 Skills
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📈 GitHub Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=kulsoom66&show_icons=true&theme=radical)
+
+## 🌟 Fun Fact
+> Coffee first, code later. ☕
+
